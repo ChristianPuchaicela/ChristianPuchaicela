@@ -1,8 +1,8 @@
 
-<h1 align="center"><b>Hi , I'm Christian Puchaiceala </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<h1 align="center"><b>Hi , I'm Christian Puchaicela </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Study+at+the+Escuela+Politécnica+Nacional;++;Self-taught+Front-End+Developer,;Software+Engineering+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -17,9 +17,10 @@
 
 <br>
 
-- Software Engineering Student
-- Playing CTF's at spare time
-- Currently learning Web Development, Database by Self
+- Software Engineering Student.
+- I'm 21 years old.
+- Playing CTF's at spare time.
+- Currently learning Web Development, Database by Self.
 - I’m currently open for an Intern or a new job opportunity.
 
 <br>
@@ -117,7 +118,7 @@
 
 <li>
 <a href="https://www.instagram.com/_buuhhu/" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -140,7 +141,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>...✨</b>
 
 </div>
 <br>
@@ -151,7 +152,3 @@
 ---
 
 <br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
