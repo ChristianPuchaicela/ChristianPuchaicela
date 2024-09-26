@@ -3,7 +3,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+at+Escuela+Politécnica+Nacional;Video game player in my spare time;Active+Learner+%26+Researcher;Love+to+learn+new+things+%F0%9F%A4%97">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+at+Escuela+Politécnica+Nacional;Love+to+learn+new+things+%F0%9F%A4%97">
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 - 💻 Software Engineering Student at **Escuela Politécnica Nacional**.
 - 🎂 21 years old.
-- 🛡️ Playing CTFs in my spare time.
+- 🛡️ Video game player in my spare time
 - 🌐 Learning **Web Development** and **Database** Management on my own.
 - 👀 Open to **internships** or **job opportunities** in software development.
 
@@ -82,9 +82,9 @@
 
 <ul>
   <li>
-  <a href="https://www.instagram.com/_buuhhu/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" style="margin-bottom: 5px;" width="30px" />
-  </a>
+    <a href="https://www.instagram.com/_buuhhu/" target="_blank">
+      <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" style="margin-bottom: 5px;" width="30px" />
+    </a>
   </li>
   <li>
     <a href="mailto:christian.puchaicela0@gmail.com">
